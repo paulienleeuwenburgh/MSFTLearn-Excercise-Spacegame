@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/MyOrganizationPLB/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status%2Fpaulienleeuwenburgh.MSFTLearn-Excercise-Spacegame?branchName=main)](https://dev.azure.com/MyOrganizationPLB/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=9&branchName=main)
 
 # Contributing
 
